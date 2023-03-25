@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 [Vu Tran](https://github.com/vutran1710) is a Distinguished Engineer<br>👯 I'm Vutr's younger brother<br>⚡ I'm good
+⚡ I'm good
 
 
 # 💻 Tech Stack:
